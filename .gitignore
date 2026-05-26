@@ -33,3 +33,7 @@ obj/
 # IDE
 .vscode/
 .idea/
+
+# Local binaries
+*_sim
+*monitor
